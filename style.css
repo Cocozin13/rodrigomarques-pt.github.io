@@ -139,7 +139,7 @@ body {
 }
 
 .logo {
-	bottom: 2px;
+	bottom: 0px;
 }
 
 .nav-item:first-child {
@@ -178,6 +178,11 @@ body {
 	display: flex;
 	justify-content: space-evenly;
 	margin-top: 150px;
+}
+
+.titleSkills 
+{
+	left: 42%;
 }
 
 .cards {
@@ -321,7 +326,7 @@ label ~ input
 #submitBtn
 {
 	position: absolute;
-	left: 45%;
+	left: 44.5%;
 	margin-top: 20px;
 	padding: 15px;
 	background-color: white;
@@ -466,7 +471,7 @@ label ~ input
 	}
 
 	#submitBtn
-{
+	{
 	left: 30%;
-}
+	}
 }
